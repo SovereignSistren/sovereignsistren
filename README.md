@@ -63,7 +63,7 @@ Explore the application to access valuable resources and support for women's emp
 - JavaScript
 
 ## Contributors
-- Anisa Jilani (Team Leader)
+- Anisa Fatima (Team Leader)
 - Y V Manasa 
 - Kamakshi kaiwart
 - Rahul Sinha
