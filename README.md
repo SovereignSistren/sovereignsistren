@@ -68,7 +68,7 @@ Explore the application to access valuable resources and support for women's emp
 - Kamakshi kaiwart
 - Rahul Sinha
 
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/e.jpg)](https://youtu.be/QsHda8CHB1c)
 
 <!--
 **SovereignSistren/sovereignsistren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
