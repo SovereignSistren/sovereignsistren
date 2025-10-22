@@ -66,7 +66,6 @@ Explore the application to access valuable resources and support for women's emp
 - Anisa Fatima (Team Leader)
 - Y V Manasa 
 - Kamakshi kaiwart
-- Rahul Sinha
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/e.jpg)](https://youtu.be/QsHda8CHB1c)
 
